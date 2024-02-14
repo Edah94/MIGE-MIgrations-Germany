@@ -10,6 +10,6 @@ The primary objective of the project is to provide a comprehensive analysis of t
 - [Population change dashboard](https://geoportal22s.zgis.at/portal/apps/insights/index.html#/edit/5fb578e5eff44d779b28178f05989774)
 
 
-More information on the project can be found in the [Wiki](https://git.sbg.ac.at/s1081994/ip-gpm/-/wikis/MIGE-Wiki)
+More information on the project can be found in the [Wiki]([https://git.sbg.ac.at/s1081994/ip-gpm/-/wikis/MIGE-Wiki](https://github.com/Edah94/MIGE-MIgrations-Germany/wiki/MIgrations-GErmany-Wiki-Page)
 
 ![MIGE_logo](https://github.com/Edah94/MIGE-MIgrations-Germany/assets/92268344/76ab73ad-2232-4a1e-91af-5efce263f36a)
