@@ -12,5 +12,4 @@ The primary objective of the project is to provide a comprehensive analysis of t
 
 More information on the project can be found in the [Wiki](https://git.sbg.ac.at/s1081994/ip-gpm/-/wikis/MIGE-Wiki)
 
-![MIGE_logo](/uploads/bbce092c589ccf95cd8817bfed0d1c23/MIGE_logo.png)
-
+![MIGE_logo](https://github.com/Edah94/MIGE-MIgrations-Germany/assets/92268344/76ab73ad-2232-4a1e-91af-5efce263f36a)
